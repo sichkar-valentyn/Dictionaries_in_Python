@@ -1,9 +1,6 @@
 # Dictionaries in Python
 How to create and use Dictionaries in Python
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Dictionaries in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Dictionaries_in_Python (date of access: XX.XX.XXXX)
 
